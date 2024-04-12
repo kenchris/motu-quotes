@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <title>MOTU quotes</title>
+  </head>
+
+  <script type="module">
+const resource = await fetch("episodes.json");
+const json = await resource.json();
+
+const slot = document.getElementById("content");
+
+for (let episode of json.episodes) {
+  slot.innerHTML += `
+    Episode number ${episode.number}: ${episode.text}<br>
+    <img src="images/${episode.imageSrc}">
+    <hr>
+  `
+}
+
+  </script>
+
+  <body>
+    <h1>
+      Masters of the Universe Quotes
+    </h1>
+    <div id="content"></div>
+  </body>
+</html>
