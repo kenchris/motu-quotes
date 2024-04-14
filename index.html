@@ -1,6 +1,7 @@
 <html>
   <head>
     <title>MOTU quotes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/themes/light.css" />
   <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/shoelace-autoloader.js"></script>
@@ -27,7 +28,9 @@ export class CardView extends LitElement {
 
   static styles = css`
     .card-overview {
-      max-width: 300px;
+      margin: 16px;
+      width: 100%;
+      max-width: min(400px, 100vw - 64px);
     }
 
     .card-overview small {
@@ -36,8 +39,7 @@ export class CardView extends LitElement {
 
     .card-overview img {
       object-fit: cover;
-      height: 200px;
-      width: 300px;
+      aspect-ratio: 4 / 3;
     }
   `;
 
