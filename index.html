@@ -2,27 +2,119 @@
   <head>
     <title>MOTU quotes</title>
   </head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/themes/light.css" />
+  <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/shoelace-autoloader.js"></script>
 
-  <script type="module">
-const resource = await fetch("episodes.json");
-const json = await resource.json();
+  <style>
+    body {
+      font-family: Helvetica;
+      margin: 16px;
+      line-height: var(--sl-line-height-normal);
+    }
+  </style>
 
-const slot = document.getElementById("content");
+<script type="module">
+import { LitElement, html, render, css } from 'lit-element';
+import { repeat } from 'lit/directives/repeat.js';
+import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/components/card/card.js";
 
-for (let episode of json.episodes) {
-  slot.innerHTML += `
-    Episode number ${episode.number}: ${episode.text}<br>
-    <img src="images/${episode.imageSrc}">
-    <hr>
-  `
+let tags = new Set(["he-man", "skeletor", "hordak"]);
+
+export class CardView extends LitElement {
+  static properties = {
+    episodes: {},
+  };
+
+  static styles = css`
+    .card-overview {
+      max-width: 300px;
+    }
+
+    .card-overview small {
+      color: var(--sl-color-neutral-500);
+    }
+
+    .card-overview img {
+      object-fit: cover;
+      height: 200px;
+      width: 300px;
+    }
+  `;
+
+  constructor() {
+    super();
+    this.json = {};
+    this.episodes = [];
+  }
+
+  async connectedCallback() {
+    const resource = await fetch("assets/episodes.json");
+    this.json = await resource.json();
+    this.episodes = this.json.episodes;
+    super.connectedCallback();
+    this.performUpdate();
+  }
+
+  refreshFilter(tags) {
+    const allEpisodes = this.json.episodes;
+    const filteredEpisodes = [];
+
+    for (let episode of allEpisodes) {
+      const episodeTags = new Set(episode.tags);
+      const intersection = episodeTags.intersection(tags);
+
+      if (intersection.size > 0) {
+        filteredEpisodes.push(episode);
+      }
+    }
+
+    this.episodes = filteredEpisodes;
+    this.performUpdate();
+  }
+
+  render() {
+    return html`
+      ${repeat(
+        this.episodes,
+        (episode) => episode.number,
+        (episode, index) => html`
+            <sl-card id="episode-${episode.number}" class="card-overview">
+              <strong>${episode.text}</strong><br />
+              ${episode.description || ""}<br />
+              <small>Episode ${episode.number}</small>
+              <img
+                slot="image"
+                src="assets/images/${episode.imageSrc}"
+                alt="A kitten walks towards camera on top of pallet."
+              />
+            </sl-card>
+          `
+      )}
+    `;
+  }
+}
+customElements.define('card-view', CardView);
+
+const select = document.querySelector('sl-select');
+const cardView = document.querySelector('card-view');
+
+for (let tag of tags) {
+  const name = tag.charAt(0).toUpperCase() + tag.slice(1);
+  select.insertAdjacentHTML("beforeend", `<sl-option value="${tag}">${name}</sl-option>`);
 }
 
-  </script>
+select.addEventListener('sl-change', event => {
+  tags = new Set(event.target.selectedOptions.map(v => v.value));
+  cardView.refreshFilter(tags);
+});
+</script>
 
   <body>
     <h1>
       Masters of the Universe Quotes
     </h1>
-    <div id="content"></div>
+    <sl-select label="What to show" value="he-man skeletor hordak" multiple clearable>
+    </sl-select><br><br>
+    <card-view></card-view>
   </body>
 </html>
