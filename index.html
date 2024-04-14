@@ -48,7 +48,7 @@ export class CardView extends LitElement {
   }
 
   async connectedCallback() {
-    const resource = await fetch("motu-quotes/assets/episodes.json");
+    const resource = await fetch("/motu-quotes/assets/episodes.json");
     this.json = await resource.json();
     this.episodes = this.json.episodes;
     super.connectedCallback();
@@ -84,7 +84,7 @@ export class CardView extends LitElement {
               <small>Episode ${episode.number}</small>
               <img
                 slot="image"
-                src="motu-quotes/assets/images/${episode.imageSrc}"
+                src="/motu-quotes/assets/images/${episode.imageSrc}"
                 alt="A kitten walks towards camera on top of pallet."
               />
             </sl-card>
