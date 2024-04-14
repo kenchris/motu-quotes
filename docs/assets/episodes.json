@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "episodes": [
+    {
+      "number": 1,
+      "imageSrc": "image.gif",
+      "text": "He-man hugs Teela",
+      "description": "Very cool episode with lots of friendship",
+      "tags": ["he-man"]
+    },
+    {
+      "number": 2,
+      "imageSrc": "image2.gif",
+      "text": "Teela kicks He-man's arse",
+      "tags": ["skeletor"]
+    },
+    {
+      "number": 3,
+      "imageSrc": "image3.gif",
+      "text": "Skeletor gets a friend",
+      "tags": ["skeletor"]
+    }
+  ]
+}
