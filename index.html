@@ -104,12 +104,12 @@ export class CardView extends LitElement {
         (episode) => episode.number,
         (episode, index) => {
           let hero = "";
-          if (episode.videoSrc) {
+          const videos = [].concat(episode.videoSrc ?? []);
+          if (videos.length) {
             hero = html`
-              <video slot="image" muted loop autoplay>
-                <source src="/motu-quotes/assets/images/${episode.videoSrc}"></source>
-              </video>
-            `;
+              <video slot="image" muted loop autoplay playsinline>
+              ${repeat(videos, video => html`<source src="/motu-quotes/assets/images/${video}" type="video/mp4"></source>`)}
+             </video>`;
           } else if (episode.imageSrc) {
             hero = html`
               <img
