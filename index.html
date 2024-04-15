@@ -106,11 +106,9 @@ export class CardView extends LitElement {
           let hero = "";
           if (episode.videoSrc) {
             hero = html`
-              <video
-                slot="image" muted loop autoplay
-                src="/motu-quotes/assets/images/${episode.videoSrc}"
-                alt="A kitten walks towards camera on top of pallet."
-              />
+              <video slot="image" muted loop autoplay>
+                <source src="/motu-quotes/assets/images/${episode.videoSrc}"></source>
+              </video>
             `;
           } else if (episode.imageSrc) {
             hero = html`

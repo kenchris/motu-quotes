@@ -36,11 +36,9 @@ var he=Object.defineProperty;var le=(n,t,e)=>t in n?he(n,t,{enumerable:!0,config
  * SPDX-License-Identifier: BSD-3-Clause
  */const Ot=(n,t,e)=>{const i=new Map;for(let s=t;s<=e;s++)i.set(n[s],s);return i},Ie=Ue(class extends Me{constructor(n){if(super(n),n.type!==Pe.CHILD)throw Error("repeat() can only be used in text expressions")}dt(n,t,e){let i;e===void 0?e=t:t!==void 0&&(i=t);const s=[],o=[];let r=0;for(const a of n)s[r]=i?i(a,r):r,o[r]=e(a,r),r++;return{values:o,keys:s}}render(n,t,e){return this.dt(n,t,e).values}update(n,[t,e,i]){var At;const s=ke(n),{values:o,keys:r}=this.dt(t,e,i);if(!Array.isArray(s))return this.ut=r,o;const a=(At=this.ut)!=null?At:this.ut=[],h=[];let c,d,l=0,p=s.length-1,$=0,u=o.length-1;for(;l<=p&&$<=u;)if(s[l]===null)l++;else if(s[p]===null)p--;else if(a[l]===r[$])h[$]=E(s[l],o[$]),l++,$++;else if(a[p]===r[u])h[u]=E(s[p],o[u]),p--,u--;else if(a[l]===r[u])h[u]=E(s[l],o[u]),O(n,h[u+1],s[l]),l++,u--;else if(a[p]===r[$])h[$]=E(s[p],o[$]),O(n,s[l],s[p]),p--,$++;else if(c===void 0&&(c=Ot(r,$,u),d=Ot(a,l,p)),c.has(a[l]))if(c.has(a[p])){const f=d.get(r[$]),tt=f!==void 0?s[f]:null;if(tt===null){const ft=O(n,s[l]);E(ft,o[$]),h[$]=ft}else h[$]=E(tt,o[$]),O(n,s[l],tt),s[f]=null;$++}else lt(s[p]),p--;else lt(s[l]),l++;for(;$<=u;){const f=O(n,h[u+1]);E(f,o[$]),h[$++]=f}for(;l<=p;){const f=s[l++];f!==null&&lt(f)}return this.ut=r,Le(n,h),U}});class ct extends I{constructor(){super(),this.json={},this.episodes=[],this.tags=new Set([])}async connectedCallback(){const t=await fetch("/motu-quotes/assets/episodes.json");this.json=await t.json(),this.episodes=this.json.episodes;for(let e of this.episodes)new Set(e.tags).forEach(s=>this.tags.add(s));this.dispatchEvent(new CustomEvent("tags-change",{detail:{tags:this.tags}})),super.connectedCallback(),this.performUpdate()}refreshFilter(t){const e=this.json.episodes,i=[];for(let s of e){const o=new Set(s.tags),r=o.intersection(t);console.log(t,o,r),r.size>0&&i.push(s)}this.episodes=i,this.performUpdate()}render(){return J`
       ${Ie(this.episodes,t=>t.number,(t,e)=>{let i="";return t.videoSrc?i=J`
-              <video
-                slot="image" muted loop autoplay
-                src="/motu-quotes/assets/images/${t.videoSrc}"
-                alt="A kitten walks towards camera on top of pallet."
-              />
+              <video slot="image" muted loop autoplay>
+                <source src="/motu-quotes/assets/images/${t.videoSrc}"></source>
+              </video>
             `:t.imageSrc&&(i=J`
               <img
                 slot="image"
