@@ -108,7 +108,7 @@ export class CardView extends LitElement {
           if (videos.length) {
             hero = html`
               <video slot="image" muted loop autoplay playsinline>
-              ${repeat(videos, video => html`<source src="/motu-quotes/assets/images/${video}" type="video/mp4"></source>`)}
+              ${repeat(videos, video => html`<source src="/motu-quotes/assets/images/${video}" type="${video.endsWith("webm") ? 'video/webm' : 'video/mp4'}"></source>`)}
              </video>`;
           } else if (episode.imageSrc) {
             hero = html`
