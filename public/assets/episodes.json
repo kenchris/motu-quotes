@@ -6,19 +6,26 @@
       "imageSrc": "image.gif",
       "text": "He-man hugs Teela",
       "description": "Very cool episode with lots of friendship",
-      "tags": ["he-man"]
+      "tags": ["The Power of Transformation"]
     },
     {
       "number": 2,
       "imageSrc": "image2.gif",
       "text": "Teela kicks He-man's arse",
-      "tags": ["skeletor"]
+      "tags": ["Unity and Friendship", "The Power of Transformation"]
     },
     {
       "number": 3,
       "imageSrc": "image3.gif",
       "text": "Skeletor gets a friend",
-      "tags": ["skeletor"]
+      "tags": [
+        "Courage and Responsibility",
+        "Unity and Friendship",
+        "Wisdom and Guidance",
+        "Facing Fear and Adversity",
+        "The Power of Transformation",
+        "Choosing Good Over Evil"
+      ]
     }
   ]
 }
