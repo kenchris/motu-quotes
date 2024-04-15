@@ -20,7 +20,7 @@
   </style>
 
 <script type="module">
-import { LitElement, html, render, css } from 'lit-element';
+import { LitElement, html, render, css, nothing } from 'lit-element';
 import { repeat } from 'lit/directives/repeat.js';
 import "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/components/card/card.js";
 
@@ -43,6 +43,12 @@ export class CardView extends LitElement {
     .card-overview img {
       object-fit: cover;
       aspect-ratio: 4 / 3;
+    }
+
+    .card-overview video {
+      object-fit: cover;
+      aspect-ratio: 4 / 3;
+      width: 100%;
     }
   `;
 
@@ -96,18 +102,35 @@ export class CardView extends LitElement {
       ${repeat(
         this.episodes,
         (episode) => episode.number,
-        (episode, index) => html`
-            <sl-card id="episode-${episode.number}" class="card-overview">
-              <strong>${episode.text}</strong><br />
-              ${episode.description || ""}<br />
-              <small>Episode ${episode.number}</small>
+        (episode, index) => {
+          let hero = "";
+          if (episode.videoSrc) {
+            hero = html`
+              <video
+                slot="image" muted loop autoplay
+                src="/motu-quotes/assets/images/${episode.videoSrc}"
+                alt="A kitten walks towards camera on top of pallet."
+              />
+            `;
+          } else if (episode.imageSrc) {
+            hero = html`
               <img
                 slot="image"
                 src="/motu-quotes/assets/images/${episode.imageSrc}"
                 alt="A kitten walks towards camera on top of pallet."
               />
+            `;
+          }
+        
+          return html`
+            <sl-card id="episode-${episode.number}" class="card-overview">
+              <strong>${episode.text}</strong><br />
+              ${episode.description || ""}<br />
+              <small>Episode ${episode.number}</small>
+              ${hero ?? nothing }
             </sl-card>
           `
+        }
       )}
     `;
   }

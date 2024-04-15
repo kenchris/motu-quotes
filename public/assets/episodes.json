@@ -3,20 +3,20 @@
   "episodes": [
     {
       "number": 1,
-      "imageSrc": "image.gif",
+      "videoSrc": "image.av1",
       "text": "He-man hugs Teela",
       "description": "Very cool episode with lots of friendship",
       "tags": ["The Power of Transformation"]
     },
     {
       "number": 2,
-      "imageSrc": "image2.gif",
+      "videoSrc": "image2.av1",
       "text": "Teela kicks He-man's arse",
       "tags": ["Unity and Friendship", "The Power of Transformation"]
     },
     {
       "number": 3,
-      "imageSrc": "image3.gif",
+      "videoSrc": "image3.av1",
       "text": "Skeletor gets a friend",
       "tags": [
         "Courage and Responsibility",
@@ -26,6 +26,12 @@
         "The Power of Transformation",
         "Choosing Good Over Evil"
       ]
+    },
+    {
+      "number": 4,
+      "imageSrc": "image4.jpg",
+      "text": "He-man falls asleep",
+      "tags": ["Unity and Friendship", "The Power of Transformation"]
     }
   ]
 }
