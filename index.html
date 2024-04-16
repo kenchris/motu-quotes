@@ -50,6 +50,12 @@ export class CardView extends LitElement {
       aspect-ratio: 4 / 3;
       width: 100%;
     }
+
+    .description {
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      overflow: hidden;
+    }
   `;
 
   constructor() {
@@ -60,7 +66,9 @@ export class CardView extends LitElement {
   }
 
   async connectedCallback() {
-    const resource = await fetch("/motu-quotes/assets/episodes.json");
+    super.connectedCallback();
+
+    const resource = await fetch("/motu-quotes/assets/motu.json");
     this.json = await resource.json();
     this.episodes = this.json.episodes;
 
@@ -68,14 +76,12 @@ export class CardView extends LitElement {
       const episodeTags = new Set(episode.tags);
       episodeTags.forEach(tag => this.tags.add(tag))
     }
+
     this.dispatchEvent(new CustomEvent("tags-change", {
       detail: {
         tags: this.tags
       }
     }));
-
-    super.connectedCallback();
-    this.performUpdate();
   }
 
   refreshFilter(selectedTags) {
@@ -86,9 +92,8 @@ export class CardView extends LitElement {
       const episodeTags = new Set(episode.tags);
       const intersection = episodeTags.intersection(selectedTags);
 
-      console.log(selectedTags, episodeTags, intersection)
-
-      if (intersection.size > 0) {
+      // Is no tags are selected, show everything
+      if (intersection.size > 0 || selectedTags.size == 0) {
         filteredEpisodes.push(episode);
       }
     }
@@ -118,12 +123,20 @@ export class CardView extends LitElement {
                 alt="A kitten walks towards camera on top of pallet."
               />
             `;
+          } else {
+            hero = html`
+              <img
+                slot="image"
+                src="/motu-quotes/assets/images/default.webp"
+                alt="A kitten walks towards camera on top of pallet."
+              />
+            `;
           }
         
           return html`
             <sl-card id="episode-${episode.number}" class="card-overview">
-              <strong>${episode.text}</strong><br />
-              ${episode.description || ""}<br />
+              <strong>${episode.title}</strong><br />
+              <div class="description">${episode.description || ""}</div><br />
               <small>Episode ${episode.number}</small>
               ${hero ?? nothing }
             </sl-card>
@@ -137,17 +150,27 @@ customElements.define('card-view', CardView);
 
 const select = document.querySelector('sl-select');
 const cardView = document.querySelector('card-view');
-cardView.addEventListener("tags-change", tags => {
-  for (let tag of cardView.tags) {
-    const name = tag.charAt(0).toUpperCase() + tag.slice(1);
-    select.insertAdjacentHTML("beforeend", `<sl-option value="${tag.replaceAll(' ', '-')}">${name}</sl-option>`);
-  }
-}, { once: true });
 
-select.addEventListener('sl-change', event => {
-  const tags = new Set(event.target.selectedOptions.map(v => v.value.replaceAll('-', ' ')));
-  cardView.refreshFilter(tags);
-});
+  cardView.addEventListener("tags-change", tags => {
+    console.log("tags-change", tags);
+
+    for (let tag of cardView.tags) {
+      const name = tag.charAt(0).toUpperCase() + tag.slice(1);
+      select.insertAdjacentHTML("beforeend", 
+        `<sl-option value="${tag.replaceAll(' ', '-')}">${name}</sl-option>`
+      );
+    }
+    const defaultTags = new Set(select.getAttribute('value').split(' ').map(v => v.replaceAll('-', ' ')));
+    console.log(defaultTags);
+    cardView.refreshFilter(defaultTags);
+  }, { once: true });
+
+  select.addEventListener('sl-change', event => {
+    console.log("sl-change");
+    const tags = new Set(event.target.selectedOptions.map(v => v.value.replaceAll('-', ' ')));
+    cardView.refreshFilter(tags);
+  });
+
 </script>
 
   <body>

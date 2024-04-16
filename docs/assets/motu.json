@@ -1,0 +1,1051 @@
+{
+    "episodes": [
+      {
+        "number": "1",
+        "title": "The Cosmic Comet",
+        "directedBy": "Steve Clark",
+        "writtenBy": "Tom Ruegger, Larry DiTillio",
+        "airDate": "September 30, 1983",
+        "tags": ["The Power of Transformation"],
+        "videoSrc": ["image.av1", "image.webm"],
+        "description": "A comet has turned evil and is working for Skeletor. He-Man must convince an old wizard named Zagraz with power over comets to help save Eternia. Man-at-Arms tells viewers they'll all make mistakes, but to \"try, try again\" and remain confident."    
+      },
+      {
+        "number": "2",
+        "title": "The Shaping Staff",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "Paul Dini",
+        "airDate": "September 29, 1983",
+        "tags": ["Unity and Friendship", "The Power of Transformation"],
+        "videoSrc": ["image2.av1", "image2.webm"],
+        "description": "Evil-Lyn has gained hold of the magical Shaping Staff, which can transform anyone at whom the holder aims it. Orko tells viewers some strangers are dangerous, so never accept gifts from or talk to any."
+      },
+      {
+        "number": "3",
+        "title": "Disappearing Act",
+        "directedBy": "Lou Zukor",
+        "writtenBy": "David Chappe, Robby London",
+        "airDate": "September 20, 1983",
+        "tags": [
+          "Courage and Responsibility",
+          "Unity and Friendship",
+          "Wisdom and Guidance",
+          "Facing Fear and Adversity",
+          "The Power of Transformation",
+          "Choosing Good Over Evil"
+        ],
+        "videoSrc": ["image3.av1", "image3.webm"],
+        "description": "Orko's magic wand accidentally hits Prince Adam's sword and made it go to the past. Skeletor captures Prince Adam and waits for He-Man to come to his rescue. Man-at-Arms tells viewers He-Man's brain helped more than his muscles in that problem and that brains can and should be exercised."
+      },
+      {
+        "number": "4",
+        "title": "Diamond Ray of Disappearance",
+        "directedBy": "Lou Zukor",
+        "writtenBy": "Robby London",
+        "airDate": "September 5, 1983[1]",
+        "tags": ["Unity and Friendship", "The Power of Transformation"],
+        "imageSrc": "image4.jpg",
+        "description": "Skeletor wreaks havoc at the Royal Palace with the Diamond of Disappearance, which transports all who look at it into a timeless dimension. Beast Man, Mer-Man, Trap Jaw, Tri-Klops, Evil-Lyn and Panthor appear. He-Man tells viewers to watch out for those people who promise a get rich quick scheme and to \"not sell yourself short.\""
+      },
+      {
+        "number": "5",
+        "title": "She-Demon of Phantos",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "Ron & Sam Schultz",
+        "airDate": "September 15, 1983",
+        "description": "Skeletor has taken control of Queen Elmora, ruler of the moon of Phantos, and is forcing her to supply him with a powerful metal called Photanium. He-Man tells viewers to be cautious, whether or not a public safety official is around."
+      },
+      {
+        "number": "6",
+        "title": "Teela's Quest",
+        "directedBy": "Marsh Lamore",
+        "writtenBy": "Paul Dini",
+        "airDate": "September 6, 1983",
+        "description": "While Teela is searching for her real mother, she is captured by Mer-Man and only He-Man and Battle Cat can rescue her from becoming a sacrifice for a legendary sea monster. Teela tells viewers caring adoptive parents deserve the same love caring biological parents get."
+      },
+      {
+        "number": "7",
+        "title": "The Curse of the Spellstone",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "Marc Scott Zicree",
+        "airDate": "September 9, 1983",
+        "description": "Skeletor steals the Spellstone, a mystical object which enables him to control the weather. Man-at-Arms tells viewers to first consider whether any practical jokes they play on friends may cause accidental serious injury."
+      },
+      {
+        "number": "8",
+        "title": "The Time Corridor",
+        "directedBy": "Lou Zukor",
+        "writtenBy": "Larry DiTillio",
+        "airDate": "September 12, 1983",
+        "description": "Skeletor goes back in time to build a castle on the same spot as Castle Grayskull is built on in the present. There, he will start the Time Wheel which will go forward in time to where Grayskull is and explode. He-Man tells viewers to learn from their mistakes."
+      },
+      {
+        "number": "9",
+        "title": "The Dragon Invasion",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "Michael Reaves",
+        "airDate": "September 8, 1983",
+        "description": "With the help of Beast Man, Skeletor sets an army of dragons on Eternia, then invades Grayskull and uses the powerful Dragon Pearl to weaken and imprison the Sorceress. Orko tells viewers animals should not be treated as tools, but with kindness and respect."
+      },
+      {
+        "number": "10",
+        "title": "A Friend in Need",
+        "directedBy": "Ed Friedman",
+        "writtenBy": "J. Brynne Stephens",
+        "airDate": "September 26, 1983",
+        "description": "Ileena, a young but self conscious friend of Teela's who despairs at her lack of strength, falls prey to the evil wizard Jarvan, who uses an addictive potion to make her part of an attempt to get his hands on Eternia's Transmutator. He-Man tells viewers drugs can not make their problems go away, and will often cause more."
+      },
+      {
+        "number": "11",
+        "title": "Masks of Power",
+        "directedBy": "Marsh Lamore",
+        "writtenBy": "Douglas Booth",
+        "airDate": "October 20, 1983",
+        "description": "A man and woman named Aran and Una, tempted by the ways of evil, are taken over by an ancient king and queen when they put on the Masks of Power. Teela tells viewers to admit their mistakes rather than lying to cover them up."
+      },
+      {
+        "number": "12",
+        "title": "Evil-Lyn's Plot",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "Paul Dini",
+        "airDate": "September 21, 1983",
+        "description": "Evil-Lyn disguises herself as an innocent girl to fool the Widget people into giving her the powerful mineral Coridite. Teela tells viewers they should question everything that does not seem right, but \"Don't judge a book by its cover\"."
+      },
+      {
+        "number": "13",
+        "title": "Like Father, Like Daughter",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "Janis Diamond",
+        "airDate": "September 19, 1983",
+        "description": "Skeletor kidnaps Man-At-Arms with the help of an evil robot army. Teela tells viewers they should obey their parents, who have their best interests at heart when disallowing fun things."
+      },
+      {
+        "number": "14",
+        "title": "Colossor Awakes",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "J. Brynne Stephens",
+        "airDate": "September 7, 1983",
+        "description": "Skeletor creates his skull-faced ship the Collector that can turn people into stone, but even worse, it can bring stone to life, and he uses it to bring alive the giant stone golem Colossor. He-Man and Teela tell viewers to check with a doctor before physical exercise and to start off slow."
+      },
+      {
+        "number": "15",
+        "title": "A Beastly Sideshow",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "Peter L. Dixon, Robby London",
+        "airDate": "October 10, 1983",
+        "description": "Beast Man, in the guise of a sideshow owner, comes to Eternos with a carnival in an attempt to lure Cringer into Skeletor's trap. He-Man tells viewers courage is not so much about braving danger as it is about sticking to personal principles in times of temptation."
+      },
+      {
+        "number": "16",
+        "title": "Reign of the Monster",
+        "directedBy": "Steve Clarke",
+        "writtenBy": "Marc Scott Zicree",
+        "airDate": "September 16, 1983",
+        "description": "Skeletor has kidnapped Stratos so that he can use the Staff of Avion to summon a monster called Molkrom. Orko tells viewers to not eat any strange fruit they find, no matter how alluring, as it might be poisonous.  This is the only episode in which Prince Adam does not appear, remaining He-Man throughout."
+      },
+      {
+        "number": "17",
+        "title": "Daimar the Demon",
+        "directedBy": "Hal Sutherland",
+        "writtenBy": "J. Brynne Stephens",
+        "airDate": "September 27, 1983",
+        "description": "Orko uses his magic to bring his new friend, Daimar, from another dimension to Eternia. Little does he know is that his new friend's presence is causing trouble on Eternia. Prince Adam tells viewers to share big problems with someone who cares, rather than feeling ashamed to ask for help."
+      },
+      {
+        "number": "18",
+        "title": "Creatures from the Tar Swamp",
+        "directedBy": "Marsh Lamore",
+        "writtenBy": "Story by: Richard Pardee Teleplay by: Richard Pardee, Paul Dini",
+        "airDate": "September 13, 1983",
+        "description": "When Prince Adam's snobbish cousin, Lady Edwina, comes to the palace, Orko is immediately attracted to her, but figures the only way he can impress her is if he finds the Magic Medallion he lost in the Tar Swamp. Prince Adam tells viewers a gift can make others act nicely toward them, but it can not buy a true friend."
+      },
+      {
+        "number": "19",
+        "title": "Quest for He-Man",
+        "directedBy": "Steve Clark",
+        "writtenBy": "Paul Dini",
+        "airDate": "October 5, 1983",
+        "description": "Skeletor wipes He-Man's memory and sends him to a distant, polluted planet called Trannis. Orko, Ram Man and Cringer must travel to this strange world to find He-Man themselves and to face the evil Plundor. Zodac tells viewers to protect their ecosystem from wasteful and dangerous pollution."
+      },
+      {
+        "number": "20",
+        "title": "Dawn of Dragoon",
+        "directedBy": "Ed Friedman",
+        "writtenBy": "Robby London",
+        "airDate": "September 22, 1983",
+        "description": "Dree Elle appears on Eternia begging for help from Orko to save Trolla from a monster called Dragoon which is threatening their home world. Skeletor and his Evil Warriors do not appear in this episode. He-Man reminds viewers what Prince Adam said after \"Daimar the Demon\"; if a problem is too much, ask for help from someone you trust."
+      },
+      {
+        "number": "21",
+        "title": "The Royal Cousin",
+        "directedBy": "Ernie Schmidt",
+        "writtenBy": "Robby London",
+        "airDate": "November 2, 1983",
+        "description": "Prince Adam's cousin Jeremy comes to town, but proves to be nothing but a troublemaker for everyone, especially when he unwittingly finds himself aiding Evil-Lyn in her latest scheme. Tri-Klops appears. Orko and He-Man tell viewers attention seeking attracts a bad kind of attention, while being polite and helpful makes people like you."
+      },
+      {
+        "number": "22",
+        "title": "Song of Celice",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "Michael Reaves, J. Brynne Stephens",
+        "airDate": "September 14, 1983",
+        "description": "The kingdom of Tahryn is living with the permanent threat of being destroyed by a monster called Yog, which can only be kept asleep by the singing of the beautiful Celice. When Skeletor learns of this threat, he captures Celice in an attempt to use the demon to his advantage. Teela tells viewers music can help them feel better, and suggests singing, humming or whistling when sad."
+      },
+      {
+        "number": "23",
+        "title": "The Return of Orko's Uncle",
+        "directedBy": "Marsh Lamore",
+        "writtenBy": "Douglas Booth",
+        "airDate": "October 14, 1983",
+        "description": "When Orko's Uncle Montork visits Eternia for a second time, he is followed by an evil magician called Azrog who puts Orko under an evil spell. Orko tells viewers to appreciate the simpler magic in life, such as rainbows or life itself."
+      },
+      {
+        "number": "24",
+        "title": "Wizard of Stone Mountain",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "Janis Diamond, Paul Dini",
+        "airDate": "November 11, 1983",
+        "description": "A lovelorn wizard named Mallek makes a pact with an evil demon called Lokus to win the heart of Teela, but soon finds himself controlled by the demon. Teela tells viewers they may get away with a bad deed for a while, but it will eventually be punished."
+      },
+      {
+        "number": "25",
+        "title": "Evilseed",
+        "directedBy": "Bob Arkwright",
+        "writtenBy": "Barney Cohen",
+        "airDate": "November 24, 1983",
+        "description": "Plants are starting to grow wild all over Eternia, causing trouble for both He-Man and Skeletor. The two enemies must team up to defeat Evilseed, a plant like villain looking to take over Eternia for himself. Teela tells viewers cooperation makes a job easier, and by respecting others' contrary opinions, they may learn something."
+      },
+      {
+        "number": "26",
+        "title": "Ordeal in the Darklands",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "Marc Scott Zicree",
+        "airDate": "October 21, 1983",
+        "description": "Evil-Lyn kidnaps the daughter of the powerful wizard Kor, and frames He-Man for the crime in the hope that Kor will use his power to defeat He-Man. Tri-Klops appears. Teela and Man-at-Arms tell viewers to resist the impulse to do something their wiser parent says is dangerous."
+      },
+      {
+        "number": "27",
+        "title": "Orko's Favorite Uncle",
+        "directedBy": "Steve Clark",
+        "writtenBy": "Douglas Booth",
+        "airDate": "October 6, 1983",
+        "description": "Orko's Uncle Montork appears on Eternia, but is captured and turned evil by the wizard Tauron, who orders him to attack Castle Grayskull. Orko tells viewers to appreciate the greatest magic of all during their daily life, which is life itself."
+      },
+      {
+        "number": "28",
+        "title": "The Defection",
+        "directedBy": "Marsh Lamore",
+        "writtenBy": "Ron & Sam Schultz",
+        "airDate": "October 25, 1983",
+        "description": "A formerly evil sorceress named Sibyline, who has defected to the side of good, enlists the help of He-Man to help free the Isle of Tears from the rule of her former master, the monstrous Gorgon. Teela and He-Man tell viewers anyone can change their bad habits and the first step is telling themselves, \"I can.\""
+      },
+      {
+        "number": "29",
+        "title": "Prince Adam No More",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "Paul Dini",
+        "airDate": "September 23, 1983",
+        "description": "When Skeletor kicks Beastman out of Snake Mountain, because of his failures against He-Man, when Prince Adam learns that his father views him as irresponsible, Beastman captures King Randor and take him to Snake Mountain so that Skeletor can take him back. He yearns to give up his secret identity to prove himself to his father. He-Man goes to Snake Mountain to save King Randor from Beastman and Merman. Orko tells viewers parental love is the strongest love there is, and suggests telling their parents \"I love you\"."
+      },
+      {
+        "number": "30",
+        "title": "The Taking of Grayskull",
+        "directedBy": "Ed Friedman",
+        "writtenBy": "Janis Diamond",
+        "airDate": "October 3, 1983",
+        "description": "Skeletor steals Castle Grayskull, with the Sorceress in it, and transports it to another dimension. Orko tells viewers to have three meals each day and to not overeat."
+      },
+      {
+        "number": "31",
+        "title": "A Tale of Two Cities",
+        "directedBy": "Marsh Lamore",
+        "writtenBy": "Richard Pardee",
+        "airDate": "October 11, 1983",
+        "description": "He-Man finds himself caught up in a war between two rival cities. Losing his memory after a blow, he is forced to fight an arena gladiator named Garn. He-Man tells viewers books are a viable entertainment alternative to television."
+      },
+      {
+        "number": "32",
+        "title": "Search for the VHO",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "Jeffry O'Hare, Arthur Browne Jr.",
+        "airDate": "November 25, 1983",
+        "description": "Prince Adam and Teela embark on a voyage to Selkie Island, to deliver a sonic device called the VHO, but their journey is disrupted by Mer-Man, who wants the VHO for himself. Man-at-Arms tells viewers they owe much to the adventurers through history, bravely facing unknown dangers so we may follow safely."
+      },
+      {
+        "number": "33",
+        "title": "The Starchild",
+        "directedBy": "Lou Zukor",
+        "writtenBy": "J. Brynne Stephens, Arthur Browne Jr.",
+        "airDate": "October 27, 1983",
+        "description": "Two rival forest tribes are caught in a battle for custody of a little girl with amazing magical powers. He-Man takes her to the Royal Palace. The Sorceress tells viewers they all have the Starchild's invisible power to bring people together; it is called love and is invoked through being kind and gentle."
+      },
+      {
+        "number": "34",
+        "title": "The Dragon's Gift",
+        "directedBy": "Lou Zukor",
+        "writtenBy": "Larry DiTillio",
+        "airDate": "September 28, 1983",
+        "description": "Skeletor uses an evil spell to turn Man-At-Arms into a crystal statue. He-Man and Teela seek the aid of the great dragon Granamyr in order to save the life of Man-At-Arms. Teela tells viewers to respect trees along with all life, and be a happier person for it."
+      },
+      {
+        "number": "35",
+        "title": "The Sleepers Awaken",
+        "directedBy": "Ed Friedman",
+        "writtenBy": "Douglas Booth",
+        "airDate": "November 15, 1983",
+        "description": "When exploring an ancient, dark castle, Adam and Teela encounter its former rulers, Lord Tyrin and Lady Valtira, who have awoken from a centuries-long sleep. Orko tells viewers to avoid heavy eating or exercise before sleep, which should be at the same time each day."
+      },
+      {
+        "number": "36",
+        "title": "The Search",
+        "directedBy": "Steve Clark",
+        "writtenBy": "David Wise",
+        "airDate": "October 31, 1983",
+        "description": "Skeletor has discovered the location of the Starseed, a chunk of cosmic matter which will give him unlimited power. He-Man must beat Skeletor to the Starseed before he gains its power. Zodac tells viewers it is just as important to know when to use great power as when to not."
+      },
+      {
+        "number": "37",
+        "title": "It's Not My Fault",
+        "directedBy": "Ed Friedman",
+        "writtenBy": "Ron & Sam Schultz",
+        "airDate": "November 7, 1983",
+        "description": "He-Man, Man-at-Arms and Teela come to the aid of Chief Merlo, whose daughter Podi has been kidnapped by Rago, an embittered soldier in Merlo's employ who plots to take over Eternia. His plan involves kidnapping Podi (along with Orko) and forcing her to remove the Moorfire Stones, which he intends to use to power Zegone - a mechanical creature which Rago intends to use to defeat He-Man and overthrow King Randor. Orko tells viewers to admit their mistakes and deal with them, rather than run away."
+      },
+      {
+        "number": "38",
+        "title": "Valley of Power",
+        "directedBy": "Lou Zukor",
+        "writtenBy": "Douglas Booth",
+        "airDate": "October 12, 1983",
+        "description": "In the Valley of Power, the stranger Danavas wants to steal the Mother Roe's egg. Teela, Prince Adam, and Cringer are exploring the area in search of magical waters. Teela recalls that the spring only rises once every thousand years. The giant bird returns to her nest and finds her egg missing. He-Man tells viewers to enjoy nature, but to leave things where they are."
+      },
+      {
+        "number": "39",
+        "title": "Trouble in Arcadia",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "David Wise",
+        "airDate": "November 8, 1983",
+        "description": "Adam and Teela stumble upon the hidden city of Arcadia, where the men are forced to work as slaves in underground mines while the women live in luxury in the beautiful city above. Teela and He-Man tell viewers of the Magna Carta, which they praise as the first step toward social equality, or \"the way it should be\"."
+      },
+      {
+        "number": "40",
+        "title": "House of Shokoti Part I of II",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "Larry DiTillio",
+        "airDate": "November 28, 1983",
+        "description": "He-Man, Battle Cat, Ram Man and Orko journey to the desert to investigate the sudden appearance of a mysterious pyramid. Ram Man tells viewers that while headbutting walls and doors looks like fun, it is actually quite dangerous."
+      },
+      {
+        "number": "41",
+        "title": "House of Shokoti Part II of II",
+        "directedBy": "Marsh Lamore",
+        "writtenBy": "Larry DiTillio",
+        "airDate": "November 29, 1983",
+        "description": "While on an archaeological expedition to explore the uncovered pyramid of Shokoti, a young boy finds himself held captive by the evil sorceress herself, who was planning to awaken a powerful beast to bring Eternia into eternal darkness. Prince Adam tells viewers to stay out of abandoned buildings, where they could be hurt or trapped."
+      },
+      {
+        "number": "42",
+        "title": "Double Edged Sword",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "Robby London",
+        "airDate": "October 4, 1983",
+        "description": "Trap Jaw goes in search of the fuel Eternium, which will give him power equal to that of He-Man. Mer-Man appears. He-Man tells viewers that even good people can get hurt when fighting or using guns."
+      },
+      {
+        "number": "43",
+        "title": "The Mystery of Man-E-Faces",
+        "directedBy": "Lou Zukor",
+        "writtenBy": "Paul Dini",
+        "airDate": "October 17, 1983",
+        "description": "Adam tells Man-At-Arms the story of how Man-E-Faces went from being a villain who terrorized innocent people, to a noble hero and actor of the Royal Court. Beast Man shows he can control Man-E-Faces' monster persona. Man-E-Faces and Orko tell viewers repetition and rehearsal are key to remembering things like lines."
+      },
+      {
+        "number": "44",
+        "title": "The Region of Ice",
+        "directedBy": "Ernie Schmidt",
+        "writtenBy": "Patrick Duncan",
+        "airDate": "October 19, 1983",
+        "description": "Skeletor has captured Snowflake, the daughter of the Ice Lord, and blackmailed him into capturing the Royal Family as part of the ransom. With the Royal Family held captive, it is up to Orko to release both them and Snowflake. Man-At-Arms tell viewers to honor their promises, to say what they mean and mean what they say."
+      },
+      {
+        "number": "45",
+        "title": "Orko's Missing Magic",
+        "directedBy": "Ernie Schmidt",
+        "writtenBy": "Larry DiTillio",
+        "airDate": "October 28, 1983",
+        "description": "Orko's magic is stolen by a small creature which escapes to another world. He-Man and Orko travel to the surreal world of Omiros to get Orko's magic back. Orko tells viewers they do not need talent or possessions, they are special just for being themselves and real friends will know it."
+      },
+      {
+        "number": "46",
+        "title": "Eternal Darkness",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "Misty Stewart",
+        "airDate": "November 1, 1983",
+        "description": "A villain called Darkdream escapes from his prison and attempts to move the moon to block out Eternia's sun, because darkness increases his power. This causes the moon to fall toward the planet, dooming both unless the moon is returned to its proper orbit. Teela tells viewers nightmares are no more real than fairy tales and suggests talking about them with someone."
+      },
+      {
+        "number": "47",
+        "title": "Keeper of the Ancient Ruins",
+        "directedBy": "Bill Reed",
+        "writtenBy": "Lee Robert",
+        "airDate": "October 18, 1983",
+        "description": "While exploring a site of ancient ruins, Man-At-Arms and Professor Smallen are taken captive by ancient robots called the Zactons. He-Man tells viewers museums are storehouses of knowledge and knowledge is a power more precious than gold or jewels."
+      },
+      {
+        "number": "48",
+        "title": "Return of Evil",
+        "directedBy": "Steve Clark",
+        "writtenBy": "Richard Pardee",
+        "airDate": "November 3, 1983",
+        "description": "An evil Electroid called Aremesh comes to Eternia targeting Orko and his powers. While He-Man tries to protect Orko, Skeletor sets out to make a deal with Aremesh himself. Teela tells viewers fear is a common and natural warning of danger, and to heed it without shame or guilt."
+      },
+      {
+        "number": "49",
+        "title": "Return of the Gryphon",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "David Wise",
+        "airDate": "November 16, 1983",
+        "description": "A mystical orb left by a powerful Gryphon is stolen from the village by Beastman and Trap Jaw where it is guarded, and winds up in the hands of a naive page boy at the Royal Palace. Chaos soon ensues as the Gryphon comes after the orb. Man-at-Arms tell viewers that accepting responsibility can instantly turn a boy to a man."
+      },
+      {
+        "number": "50",
+        "title": "Temple of the Sun",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "Jeffry O'Hare, Patrick Duncan",
+        "airDate": "November 10, 1983",
+        "description": "Zoar is captured by a man called Nepthu, who has gained mystical powers in the ancient Temple of The Sun, located on the Sands of Time. He-Man tells viewers not to blindly follow orders from leaders who may be irresponsibly selfish, but consider what is right and wrong for themselves."
+      },
+      {
+        "number": "51",
+        "title": "City Beneath the Sea",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "Larry DiTillio",
+        "airDate": "October 24, 1983",
+        "description": "While investigating the disappearance of some of King Randor's food ships, He-Man and Man-At-Arms find themselves held captive in the underwater city of Aquatica, which has been overtaken by Mer-Man. Mer-Man takes over Aquatica, until He-Man finds and rescue the real leader of Aquatica. Man-at-Arms tells viewers to judge people on their behaviour, not their appearance."
+      },
+      {
+        "number": "52",
+        "title": "Teela's Trial",
+        "directedBy": "Marsh Lamore",
+        "writtenBy": "David Wise",
+        "airDate": "October 26, 1983",
+        "description": "While conducting an experiment, Teela makes a mistake which results in the disappearance of her father. In despair and guilt over her mistake, Teela exiles herself to the Wastelands as self-punishment, while Man-At-Arms himself winds up in the clutches of Skeletor and Trap Jaw. Man-at-Arms tells viewers to accept and learn from their mistakes, rather than beat themselves up about them."
+      },
+      {
+        "number": "53",
+        "title": "Dree Elle's Return",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "Robby London",
+        "airDate": "November 14, 1983",
+        "description": "Dree Elle returns to Eternia seeking Orko's help in retrieving a dangerous Trollan artifact called the Horn of Evil, which has been stolen by Clawful and Trap Jaw. Yuckers accidentally blows the Horn of Evil and evil things happen in front of Castle Grayskull. Orko tells viewers carelessness is dangerous, and to \"play it safe\"."
+      },
+      {
+        "number": "54",
+        "title": "Game Plan",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "Coslough Johnson",
+        "airDate": "October 13, 1983",
+        "description": "He-Man and his friends are taken prisoner by a villain called Negator who inserts them into a lifelike computer game. He-Man tells viewers to not let the spirit of competition lead to injuries or anger in games, and to \"play it safe\"."
+      },
+      {
+        "number": "55",
+        "title": "Eye of the Beholder",
+        "directedBy": "Marsh Lamore",
+        "writtenBy": "Jeffry O'Hare, David Wise",
+        "airDate": "November 4, 1983",
+        "description": "When a sudden drought strikes Eternia and results in machinery failing and He-Man feeling inexplicably weak, He-Man teams up with a strange insect man called Garth to seek out the cause of the problem. Skeletor takes over the water and causes an oxygen drought. He-Man and Garth stop Skeletor and end the drought. The water transforms Garth's appearance. Teela tells viewers  beauty is skin deep, that ugly people are often the \"most beautiful to know\" and those who look beautiful can be ugly inside."
+      },
+      {
+        "number": "56",
+        "title": "Quest for the Sword",
+        "directedBy": "Ed Friedman",
+        "writtenBy": "Marc Richards",
+        "airDate": "October 7, 1983",
+        "description": "While saving two children, He-Man's Power Sword falls into the hands of two dangerous rock creatures, leaving He-Man to enter their lair to retrieve it or face never being able to transform back into Adam. He-Man tells viewers a symbol like a sword can't make a leader, but intelligence, respect for others and an unselfish desire to do good can."
+      },
+      {
+        "number": "57",
+        "title": "Castle of Heroes",
+        "directedBy": "Ernie Schmidt",
+        "writtenBy": "Mel Gilden",
+        "airDate": "November 9, 1983",
+        "description": "A villain called Monteeg visits Skeletor, hoping to recruit He-Man for his Castle of Heroes after passing a series of tests. Skeletor roots for He-Man to pass the tests in the hope that he will be rid of He-Man for good. Clawful appears as Skeletor's \"right hand man\". Prince Adam tells viewers historical figures were once real people, like them."
+      },
+      {
+        "number": "58",
+        "title": "The Once and Future Duke",
+        "directedBy": "Lou Zukor",
+        "writtenBy": "Phyllis White, Robert White",
+        "airDate": "November 30, 1983",
+        "description": "A childhood friend of Adam and Teela's, David the Duke of Abra, appears at the Royal Palace- however he is inexplicably still a child even after all these years and has lost his memory. It transpires he has been the victim of his evil uncle, Count Marzo, who is concocting a wicked scheme with a memory-draining fountain. He-Man tells viewers the threat of drowning is very real, and to never swim alone."
+      },
+      {
+        "number": "59",
+        "title": "The Witch and the Warrior",
+        "directedBy": "Marsh Lamore",
+        "writtenBy": "Paul Dini",
+        "airDate": "November 23, 1983",
+        "description": "An attempt by Skeletor to steal the Fountain of Life of Aridan from the evil wizard Kothos results in Evil-Lyn and Teela being stranded alone in the middle of the desert. The two arch nemeses have no choice but to work together to get back to safety as well as stopping Kothos. Clawful also appears. Teela tells viewers, basically, when life gives you lemons, make lemonade."
+      },
+      {
+        "number": "60",
+        "title": "The Return of Granamyr",
+        "directedBy": "Ernie Schmidt",
+        "writtenBy": "Larry DiTillio",
+        "airDate": "November 17, 1983",
+        "description": "Granamyr summons He-Man to his aid to help a young dragon called Torm, who desires to become a human after having fallen in love with a human girl. In order for him to achieve this, he must pass a series of tests, but these can only be undertaken by a human, so He-Man must undertake them on his behalf. However, a jealous wizard named Zem and the evil dragon Shadowing are determined to do everything they can to stop He-Man from passing them. He-Man tells viewers it takes more courage to not fight when someone calls them a coward."
+      },
+      {
+        "number": "61",
+        "title": "Pawns of the Game Master",
+        "directedBy": "Steve Clark",
+        "writtenBy": "Paul Dini",
+        "airDate": "November 18, 1983",
+        "description": "Teela is captured by a spacefaring gladiator called the Game Master, who intends to use her as bait to lure He-Man, whom he hopes to capture to take part in his intergalactic games. But as the Game Master has also managed to get hold of He-Man's sword, it is Adam and not He-Man who comes to the rescue this time. When He-Man defeats the Game Master, the slaves walk out on the Game Master. Orko tells viewers to not boast when playing games, to be a good winner and a good loser."
+      },
+      {
+        "number": "62",
+        "title": "Golden Disks of Knowledge",
+        "directedBy": "Ed Friedman",
+        "writtenBy": "John Berwick, David Wise",
+        "airDate": "December 1, 1983",
+        "description": "A wizard called Zanthor, exiled to the spirit dimension after selling the Golden Disks of Knowledge to Skeletor, contacts the Sorceress, hoping to amend for his crime by helping He-Man recover the Disks. He-Man and Zanthor investigate the real crime, Skeletor covers up the crime of the Golden Disks. He-Man tells viewers everybody deserves a second chance, but if they keep getting into trouble, they might not be worth keeping around."
+      },
+      {
+        "number": "63",
+        "title": "The Huntsman",
+        "directedBy": "Lou Zukor",
+        "writtenBy": "Larry DiTillio",
+        "airDate": "November 21, 1983",
+        "description": "A huntsman called Baron Grod, who kills wild animals so he can preserve them with taxidermy, is after Eternia's last living unicorn. Adam and Teela must set out to save the unicorn and make Grod see the error of his ways. Teela tells viewers than being calm and reasonable during arguments, rather than angry, is the best way to solve a problem."
+      },
+      {
+        "number": "64",
+        "title": "The Remedy",
+        "directedBy": "Bill Reed",
+        "writtenBy": "Ron & Sam Schultz",
+        "airDate": "November 22, 1983",
+        "description": "Man-At-Arms' mentor Rohad is dying, and He-Man must embark on a search to find a rare plant which provides the only cure to Rohad's illness. Teela tells viewers their parents are their best friends, since they help and care through illness and other bad times."
+      },
+      {
+        "number": "65",
+        "title": "The Heart of a Giant",
+        "directedBy": "Ernie Schmidt",
+        "writtenBy": "Robby London, David Wise",
+        "airDate": "December 2, 1983",
+        "description": "Orko is on the run from a giant that he believes to be an evil monster, but both he and the giant are captured by a travelling freak show. Orko tells viewers to not fear others for looking different, but to appreciate their thoughts and actions."
+      },
+      {
+        "number": "66",
+        "title": "The Cat and the Spider",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "Larry DiTillio",
+        "airDate": "September 21, 1984",
+        "description": "While exploring the seemingly abandoned Temple of the Cat, Prince Adam and Melaktha find a magical statue, unaware that it contains the spirit of a powerful demon, and take it back to the Royal Palace. The Cat Folk send an emissary - the agile young cat woman called Kittrina - to retrieve the statue. Skeletor also wants the statue for himself, and sends Webstor to steal it for him. Kittrina and Prince Adam tell viewers to not discriminate by race or religion, rather by actions."
+      },
+      {
+        "number": "67",
+        "title": "The Energy Beast",
+        "directedBy": "Marsh Lamore",
+        "writtenBy": "Rowby Goren",
+        "airDate": "September 12, 1984",
+        "description": "A bell jar is found deep within Mount Eternia, which unleashes a powerful being called the Energy Beast that threatens to drain the energy from all of Eternia. Teela and Orko tell viewers patience can keep them from rushing into trouble."
+      },
+      {
+        "number": "68",
+        "title": "Day of the Machines",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "David Wise",
+        "airDate": "September 20, 1984",
+        "description": "Man-At-Arms threatens to resign from his position after an experiment causes an accident that nearly kills the King and Queen. Skeletor takes advantage of Man-At-Arms' crisis by injecting an energy bug into the Royal computer system that causes all the machines to go out of control. Teela tells viewers to accept responsibility for their mistake, and not shift the blame onto others."
+      },
+      {
+        "number": "69",
+        "title": "The Gamesman",
+        "directedBy": "Steve Clark",
+        "writtenBy": "Antoni Zalewski",
+        "airDate": "September 14, 1984",
+        "description": "A chess-playing nobleman called Lord Todd visits the Royal Palace, and offers to repay the Royal Family for their generosity by taking Teela on a tour of his own kingdom. Teela agrees and accompanies Todd to his home, the ancient Castle Starg, but soon afterward, the Sorceress warns Man-At-Arms that a great evil has arrived on Eternia, and has taken up base in Castle Starg. Teela and He-Man again tell viewers \"Don't judge a book by its cover\"."
+      },
+      {
+        "number": "70",
+        "title": "Fisto's Forest",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "Douglas Booth",
+        "airDate": "September 13, 1984",
+        "description": "Fisto tells a young boy the story of how he was once an evil villain who terrorized the people of the forest, before He-Man convinced him to change his ways. Teela tell viewers the \"Golden Rule\" of treating others the way you'd like them to treat you."
+      },
+      {
+        "number": "71",
+        "title": "The Rarest Gift of All",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "J. Brynne Stephens",
+        "airDate": "September 15, 1984",
+        "description": "When an attempt at making a surprise present for the King and Queen goes wrong, Orko decides he is worthless and leaves home. He-Man and Teela set out to find Orko and convince him he is much-loved at the Palace. Fisto appears. Orko tells viewers to ask for help with their problems, rather than just feeling sorry for themselves."
+      },
+      {
+        "number": "72",
+        "title": "The Great Books Mystery",
+        "directedBy": "Bill Reed",
+        "writtenBy": "Harvey Brenner",
+        "airDate": "September 25, 1984",
+        "description": "A villain called Batros steals the great books of Eternia and hides them in the Temple of The Sun. As Teela and Orko set out to retrieve the books, Skeletor sends Trap Jaw and Beast Man out to recruit Batros into his service. Mer-Man, Beast Man and Tri-Klops make cameos. Teela and Orko tell viewers there are vast quantities and varieties of entertainment and information in books."
+      },
+      {
+        "number": "73",
+        "title": "Origin of the Sorceress",
+        "directedBy": "Marsh Lamore",
+        "writtenBy": "J. Michael Straczynski",
+        "airDate": "September 26, 1984",
+        "description": "When the ancient evil wizard Morgoth attempts to return to Eternia, the Sorceress journeys to Dark Mountain with He-Man and the robotic horse Stridor to stop him. On the way, the Sorceress tells He-Man the story of how she relinquished her mortal life to become the mystic guardian of Castle Grayskull. He-Man tells viewers to help their fellow humans when they see a problem too big for one alone.  Note: This is the first time we see the sword that eventually becomes that of Princess Adora/She-Ra. It is prominent in the 1985 film The Secret of the Sword."
+      },
+      {
+        "number": "74",
+        "title": "Island of Fear",
+        "directedBy": "Bill Reed, Lou Zukor",
+        "writtenBy": "Antoni Zalewski",
+        "airDate": "October 3, 1984",
+        "description": "While investigating the disappearance of King Randor's food ships, the heroes come across a floating island that Skeletor is using in his attempt to infiltrate the dam around the Royal Kingdom. Buzz-Off, Whiplash and Mer-Man appear. He-Man and Teela tell viewers that, while human progress will inevitably destroy many trees, it is important to leave some areas of wilderness for everyone to enjoy."
+      },
+      {
+        "number": "75",
+        "title": "To Save Skeletor",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "Paul Dini, Beth Bornstein",
+        "airDate": "September 18, 1984",
+        "description": "Skeletor brings an evil demon called Sh'Gora to Eternia, who overcomes Skeletor and his minions Evil-Lyn, Trap Jaw and Whiplash on its way to Castle Grayskull. He-Man and his comrades have no choice but to work together with Skeletor in banishing the demon from Eternia before it is too late. Fisto tells viewers to lend a hand when they see others struggling with a task, and to not be too proud to ask for the same."
+      },
+      {
+        "number": "76",
+        "title": "The Ice Age Cometh",
+        "directedBy": "Ed Friedman",
+        "writtenBy": "Robert White",
+        "airDate": "September 28, 1984",
+        "description": "Skeletor's minion Icer takes control of the Eternian Weather Station, using it to spread icy blizzards across Eternia. Prince Adam and Teela tell viewers meeting responsibilities for a workload breeds dependability, the \"first step to becoming a winner\"."
+      },
+      {
+        "number": "77",
+        "title": "Trouble in Trolla",
+        "directedBy": "Ernie Schmidt",
+        "writtenBy": "Larry DiTillio",
+        "airDate": "September 22, 1984",
+        "description": "Dree Elle summons Orko to Trolla to help overcome Skeletor's ally Whiplash, who has enlisted the help of a misguided Trollan wizard to attain magic powers. Orko tells viewers to not discount old people, who often have much wisdom to combine with the vitality of youth, resulting in a better time for everyone."
+      },
+      {
+        "number": "78",
+        "title": "Betrayal of Stratos",
+        "directedBy": "Steve Clark",
+        "writtenBy": "David Wise",
+        "airDate": "September 27, 1984",
+        "description": "Stratos is framed for a crime by Hawke, a vindictive female citizen of Avion, causing him to be exiled from the kingdom. It turns out that Hawke has made a deal with Skeletor to help him harness the power of the Egg of Avion, which gives its people the power of flight, and it is up to He-Man to help Stratos recover the egg and prove his innocence. Whiplash, Tri-Klops, Trap Jaw and Beast Man appear. He-Man tells viewers everyone makes mistakes, and everyone deserves a second chance (as he did in \"The Golden Discs of Knowledge\")."
+      },
+      {
+        "number": "79",
+        "title": "Disappearing Dragons",
+        "directedBy": "Ernie Schmidt",
+        "writtenBy": "Larry DiTillio",
+        "airDate": "October 2, 1984",
+        "description": "Granamyr summons He-Man to his aid to investigate the disappearance of numerous dragons from Dragon Mountain. The search for the dragons leads He-Man and his comrades to the distant world of Mero, where the dragons are being used by gamers to fight for amusement. Buzz-Off, Mekaneck, Webstor and Kobra Khan appear. He-Man tells viewers treating an animal with respect and kindness is far more fun than forcing it to fight."
+      },
+      {
+        "number": "80",
+        "title": "The Shadow of Skeletor",
+        "directedBy": "Steve Clark",
+        "writtenBy": "Rowby Goren",
+        "airDate": "September 11, 1984",
+        "description": "Skeletor is attempting to stir up a war between the inhabitants of Eternia's twin moons. Man-E-Faces goes undercover by disguising himself as Beast Man to put a stop to Skeletor's scheme. Man-E-Faces and Ram Man tell viewers to keep calm in arguments with friends, lest they say something hurtful they'll later regret."
+      },
+      {
+        "number": "81",
+        "title": "The Arena",
+        "directedBy": "Ernie Schmid",
+        "writtenBy": "Warren Greenwood",
+        "airDate": "September 29, 1984",
+        "description": "An alien being called Om visits Eternia, just as Eternos City comes under attack from Skeletor and an army of Goblin warriors. Perplexed by all the fighting, Om freezes the conflict and selects the most powerful warriors from both good and evil sides- He-Man and Skeletor- to face one another in a duel and prove which side is the most powerful and wise. Man-at-Arms tell viewers the best and quickest way to end a battle is an act of compassion, not of revenge."
+      },
+      {
+        "number": "82",
+        "title": "Attack from Below",
+        "directedBy": "Marsh Lamore",
+        "writtenBy": "Michael Kirschenbaum",
+        "airDate": "October 6, 1984",
+        "description": "83"
+      },
+      {
+        "number": "84",
+        "title": "Fraidy Cat",
+        "directedBy": "Ed Friedman",
+        "writtenBy": "Phil Harnage",
+        "airDate": "October 10, 1984",
+        "description": "Queen Marlena is captured by Skeletor's minions. While He-Man and his friends are led along a false trail, Orko and Cringer find the correct route to rescue their Queen, and Cringer comes to realize he is a lot braver than he thought. He-Man, Orko and Cringer tell viewers to trust their instincts, whether feeling fear or courage."
+      },
+      {
+        "number": "85",
+        "title": "The Rainbow Warrior",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "Bob Forward, Leslie Wilson",
+        "airDate": "October 11, 1984",
+        "description": "Skeletor captures the Royal Family and holds them prisoner, and the one person who can save them is Queen Marlena, who resumes her old role of space captain and proves she still has great piloting skills as she uses the Rainbow Explorer- the ship that brought her to Eternia - to lead a battalion of soldiers to the rescue. Teela and Queen Marlena (unusually implicitly) tell viewers old people and[young people both have things to teach the other, which can't be learned from themselves."
+      },
+      {
+        "number": "86",
+        "title": "A Trip to Morainia",
+        "directedBy": "Steve Clark",
+        "writtenBy": "Steve Bussard",
+        "airDate": "October 12, 1984",
+        "description": "Prince Adam, Orko and Cringer go to the ice Kingdom of Morainia to pick up a gift that the King Boreas has offered to King Randor. While there, the Morainian king is kidnapped by Skeletor, and it is up to He-Man, Battle Cat, Orko and Janice, the king's daughter, to find out where he's hidden and get him back. Teela tell viewers a good idea can come from an unexpected place, so to keep an open mind."
+      },
+      {
+        "number": "87",
+        "title": "Things That Go Bump in the Night",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "John Curtin",
+        "airDate": "October 13, 1984",
+        "description": "When Prince Glitch joined forces with Skeletor, he thought that it would teach him courage. Instead, it just frightened him more, and Skeletor throws him out! Meanwhile, Prince Glitch's father King Sallas attacks Snake Mountain to rescue his son. Skeletor convinces him that King Randor and his court are evil and kidnapped Glitch. He-Man tells viewers fears which might be called phobias can often be healthy and normal deterrents from dangers like fire, water or heights."
+      },
+      {
+        "number": "88",
+        "title": "Three on a Dare",
+        "directedBy": "Marsh Lamore",
+        "writtenBy": "Misty Stewart",
+        "airDate": "October 16, 1984",
+        "description": "When Orko breaks the palace's communications transmitter's beam switch, Prince Adam volunteers himself and Cringer to go to Snake Mountain to get the Rainbow Quartz that Man-at-Arms needs to repair it. Meanwhile, Teela has taken three children on an outing to the Mystic Forest. When one of them takes a dare to steal the vehicle while Teela is searching for a picnic spot, they accidentally get trapped in Snake Mountain. With the beam switch broken, Teela cannot call for help. Prince Adam tells viewers accepting a dare is often a foolish path to trouble, and they should do what they feel is right, regardless of peer pressure."
+      },
+      {
+        "number": "89",
+        "title": "Just a Little Lie",
+        "directedBy": "Bill Reed",
+        "writtenBy": "J. Brynne Stephens",
+        "airDate": "October 17, 1984",
+        "description": "When Orko finds out that Adam's visiting cousin, Prince Dal, doesn't think Eternos is as magical as his own home kingdom, he gives Prince Dal a pretty rock and tells him that it is called the Starcrystal and that it will protect anyone who has it. Prince Dal believes the lie and steals the rock from Orko later to bring to his father, who is fighting a war against the Torcs, thinking it will make him invincible. Orko tells viewers a lie not only hurts others, but themselves; lying to cover lies and forgetting which were already told makes a small lie into a big one."
+      },
+      {
+        "number": "90",
+        "title": "One for All",
+        "directedBy": "Ed Friedman",
+        "writtenBy": "Robert White",
+        "airDate": "October 18, 1984",
+        "description": "Space Pirates take an Eternian village hostage and begin stealing all of their food. Teela, Adam, Cringer, and Orko are nearby exploring the ruins of an old camp they suspect was used by their ancestors. However, when they hear a cry for help, Teela immediately heads to the rescue, along with He-Man and Battle Cat. Upon hearing the girl's story about what happened in her village, Orko is sent to find Man-at-Arms back at the palace. In the meanwhile, however, it is up to Teela, Adam and Cringer to try to help the village. During the initial fight, however, Adam's Power Sword is stolen and he is unable to transform into He-Man. Together, Adam, Teela, Cringer and the villagers must all find the courage to come together and work as a team to rid the village of the space pirates and save the village's food supply. Prince Adam tells viewers cooperation can make a tedious or impossible task much easier and even fun."
+      },
+      {
+        "number": "91",
+        "title": "Jacob and the Widgets",
+        "directedBy": "Ed Friedman",
+        "writtenBy": "Harvey Brenner",
+        "airDate": "October 19, 1984",
+        "description": "During an outing at the beach with the Widgets, Adam and Teela witness an attack by apparent sea monsters on what appears to be a fishing boat. There is one person on board. Adam transforms into He-Man to save the man, finding out that the sea monsters were robots. Unfortunately, the man's boat is destroyed along with everything in it. It is learned shortly after that the man is a hermit and has been living on that boat. With his home gone, and no supplies to catch his food, he has nowhere to go. So, the Widgets take him in, despite the fact that he doesn't act very grateful for it. However, Mer-Man was behind the attack, testing out his new creations, and he learns from one of the Widgets that Corodite is kept hidden in their mines. He aims to get it and use it as a means to rebuild his sea monster robots and make them too strong for even He-Man to destroy. However, the Widgets, Jacob, Teela and He-Man all have other things in mind for Mer-Man. Teela tells viewers to let those who've been kind and helpful to them know how much that means."
+      },
+      {
+        "number": "92",
+        "title": "The Littlest Giant",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "Douglas Booth",
+        "airDate": "October 5, 1984",
+        "description": "Squinch wishes to be as big as He-Man is, so that he can be a hero, too. After mentioning this to Orko, he is informed that Orko's magic cannot help him there. So, in the dead of night, he sneaks out to go to Snake Mountain to ask Skeletor to make him big. Skeletor considers it for a moment, but when Squinch has nothing to give him in return, he orders him taken to the dungeon. Evil-Lyn, however, has a different idea and convinces Skeletor to let her pull a ruse. She gives Squinch a golden box that she says is a present for He-Man. Convincing him not to open it, that it is only for He-Man and that he will like the surprise, Squinch agrees to give it to him in return for Evil-Lyn to make him big. However, this all goes terribly awry for Squinch when he realizes that he has been tricked. He-Man and Battle Cat are captured, and its up to Orko, Teela, and Squinch himself to save He-Man this time. Squinch tells viewers their maximum level of ability isn't as important as their effort to work at that level."
+      },
+      {
+        "number": "93",
+        "title": "Trouble's Middle Name",
+        "directedBy": "Steve Clark",
+        "writtenBy": "J. Michael Straczynski",
+        "airDate": "October 20, 1984",
+        "description": "Knowing that the Sunstone needs to be recharged on that specific day due to the sun's alignment, Negator sets out to follow the heroes so that he can steal the Sun Stone's energy for himself. At the same time, Prankster, a visitor from Orko's home dimension of Trolla has appeared. He is a practical joker and doesn't know when to stop. The only way to get him to leave, is to get him to say his name. So, unable to figure out what it is, the heroes have to take him along on their journey to attend the Sunstone's recharging. His practical jokes turn into near danger quite often, as Negator manipulates them without the alien's knowledge, however, and work to hinder the group. Teela tells viewers to consider the victim's safety and feelings before playing a practical joke."
+      },
+      {
+        "number": "94",
+        "title": "Journey to Stone City",
+        "directedBy": "Ed Friedman",
+        "writtenBy": "J. Michael Straczynski",
+        "airDate": "October 23, 1984",
+        "description": "When Evil-Lyn finds her way to Stone City, home to a race of warriors who froze themselves in stone so they could be reawakened when Eternia next needed them, she sets loose the city's warrior king, Vokan, and tricks him into attacking Castle Grayskull. Orko tells viewers to not take a rumor about someone at face value and ask for their side of the story before judging."
+      },
+      {
+        "number": "95",
+        "title": "A Bird in the Hand",
+        "directedBy": "Richard Trueblood",
+        "writtenBy": "Phil Harnage",
+        "airDate": "October 24, 1984",
+        "description": "When Orko breaks an ancient stone statue while trying to help Stanlan dust the antiquities, an ancient map is found inside. They take it to the Sorceress who tells them that the map tells the way to another statue that contains the Ancients' book of spells and that it must be brought to Castle Grayskull for safekeeping. Beast Man overhears and tells Skeletor, and together with Trap Jaw they set out to reach the book of spells before the heroes do. Teela tells viewers to not jump to conclusions; a somewhat bird like creature lands on her shoulder and repeats this twice."
+      },
+      {
+        "number": "96",
+        "title": "BattleCat",
+        "directedBy": "Richard Trueblood",
+        "writtenBy": "D. C. Fontana, Richard Fontana",
+        "airDate": "October 25, 1984",
+        "description": "Man-At-Arms tells Orko the origin of Battle Cat, from the day when the young Prince Adam found the lost tiger cub Cringer in the woods, to the day when Cringer first became Battle Cat and helped He-Man save his friends from danger. Man-At-Arms tells viewers not to touch or especially ingest anything labeled with a face like Skeletor's; just like Skeletor, they spell bad news."
+      },
+      {
+        "number": "97",
+        "title": "The Time Wheel",
+        "directedBy": "Bill Reed",
+        "writtenBy": "Mel Gilden, Larry DiTillio",
+        "airDate": "October 26, 1984",
+        "description": "While exploring an ancient site with He-Man, Orko accidentally brings a barbaric king called Tamusk, from Eternia's ancient past, to the present. Confused by his time slip, Tamusk mistakenly believes King Randor is a magician who has taken over his kingdom and attempts to take his kingdom back by force. He-Man tells viewers books are the closest thing they have to a working time machine, while holding three fiction books: Moby Dick, Huckleberry Finn and The Time Machine."
+      },
+      {
+        "number": "98",
+        "title": "Search for the Past",
+        "directedBy": "Ernie Schmidt",
+        "writtenBy": "Misty Stewart, Larry DiTillio",
+        "airDate": "October 27, 1984",
+        "description": "Man-At-Arms finds a bracelet bearing the crest of King Miro, King Randor's long missing father. The merchant found the bracelet in the Swamps of Enchantment, leading Man-At-Arms and King Randor on an expedition to find the missing king. Orko tells viewers those with living grandparents are especially lucky."
+      },
+      {
+        "number": "99",
+        "title": "Hunt for He-Man",
+        "directedBy": "Marsh Lamore",
+        "writtenBy": "Antoni Zalewski",
+        "airDate": "October 30, 1984",
+        "description": "He-Man is very weak and vulnerable after falling into a pit of poisonous tar. When a boy and his father find him, they must decide whether to help He-Man, or offer him to Skeletor in exchange for money. He-Man, Cringer and Drak (unusually implicitly) tell viewers having friends makes them richer than money can and to resist the temptation of thinking otherwise."
+      },
+      {
+        "number": "100",
+        "title": "The Greatest Show on Eternia",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "Rowby Goren",
+        "airDate": "October 31, 1984",
+        "description": "When a travelling circus refuses to perform at Snake Mountain, Skeletor becomes very angry and attempts to take over the circus for himself. Prince Adam and Orko tell viewers if they practice hard at anything they want to do well, the results will eventually surprise them."
+      },
+      {
+        "number": "101",
+        "title": "Not so Blind",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "Robert Lamb",
+        "airDate": "November 1, 1984",
+        "description": "He-Man and Ram Man take a blind boy named Loos on a trip to the Singing Crystals. But a flash of light results in both He-Man and Ram Man becoming blind as well, and Loos proves he is more capable than others assume when he leads the heroes to safety himself. An old man and some children (implicitly) tell viewers blind people can do most things seeing people do, and by devoting more brainpower to their other senses, can be particularly helpful with those."
+      },
+      {
+        "number": "102",
+        "title": "Revenge is Never Sweet",
+        "directedBy": "Ernie Schmidt",
+        "writtenBy": "Douglas Booth",
+        "airDate": "October 4, 1984",
+        "description": "The evil wizard Kothos, turned into a sand slug by Evil-Lyn (in \"The Witch and The Warrior\"), tricks Orko into reviving his human form, then exacts revenge on Evil-Lyn for what she did to him. Teela and Orko tell viewers revenge just leads to more revenge, and to forgive rather than continue the cycle."
+      },
+      {
+        "number": "103",
+        "title": "The Good Shall Survive",
+        "directedBy": "Bill Reed",
+        "writtenBy": "Richard Pardee",
+        "airDate": "September 19, 1984",
+        "description": "Buzz-Off's colony of Bee People come under attack by the Tycons, aided by Skeletor. He-Man tells viewers to treat envy not with theft, but by asking politely to share; they might even make a friend."
+      },
+      {
+        "number": "104",
+        "title": "The Secret of Grayskull",
+        "directedBy": "Richard Trueblood",
+        "writtenBy": "John Curtin",
+        "airDate": "November 2, 1984",
+        "description": "When he captures Orko, Skeletor uses him as a hostage to force the Sorceress to allow him into Castle Grayskull and show him the secrets of Grayskull. Man-At-Arms and Orko tell viewers their parents punish them to teach right from wrong, not because they like it."
+      },
+      {
+        "number": "105",
+        "title": "No Job too Small",
+        "directedBy": "Marsh Lamore",
+        "writtenBy": "Don Heckman",
+        "airDate": "November 3, 1984",
+        "description": "While Skeletor is away, a group of his henchmen led by Evil-Lyn capture Orko, Teela, and Man-At-Arms. Using a size ray that Evil-Lyn invented, the hostages are shrunk down to tiny size and put in a cage to await He-Man, having a trap set up to make it impossible for He-Man to rescue them. Man-At-Arms tells viewers imagination and intelligence are more wonderful than physical strength, and to exercise their brains along with their muscles."
+      },
+      {
+        "number": "106",
+        "title": "The Bitter Rose",
+        "directedBy": "Ed Friedman",
+        "writtenBy": "Michael Chase Walker",
+        "airDate": "November 6, 1984",
+        "description": "When he hears of the Bitter Rose, Orko sets out to pick the rose as a present for Dree Elle. Unfortunately, it turns out that the rose is all that is holding Rose Mountain together. Orko doesn't realize what he has done and flies off. Unfortunately, Skeletor has noticed what Orko has done and sends Beast Man and Trap Jaw to steal the rose from Orko. Man-At-Arms tells viewers to listen to their conscience and if they're still confused after that, ask someone they trust."
+      },
+      {
+        "number": "107",
+        "title": "The Gambler",
+        "directedBy": "Richard Trueblood",
+        "writtenBy": "Antoni Zalewski, Larry DiTillio",
+        "airDate": "November 7, 1984",
+        "description": "During a celebration in honor of Man-At-Arms new Corodite Reactor invention, a showman called Melbrag tricks one of the Widgets into giving him some Corodite. When He-Man attempts to retrieve the Corodite he is severely weakened by a weapon powered by the volatile mineral and passes out. After He-Man regains consciousness he learns that Melbrag plans to sell both He-Man and the weapon to Skeletor and he is too weak to escape! Prince Adam tells viewers to not gamble with things that aren't theirs."
+      },
+      {
+        "number": "108",
+        "title": "Teela's Triumph",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "Joseph Botsford",
+        "airDate": "November 8, 1984",
+        "description": "When Skeletor unknowingly sends the Sorceress to another world, Teela is called upon by the Spirit of Grayskull to take her place while He-Man goes to find out where she went. He seeks out Skeletor at Snake Mountain, suspecting him as the culprit, However, once Skeletor learns that the Sorceress is missing, he realizes that Grayskull is unguarded and quickly has Evil-Lyn send He-Man to the same world he sent the Sorceress to, and heads off with Trap Jaw and Evil-Lyn to attack and take over Castle Grayskull, Teela pretends to be the sorceress to take care of them until the real Sorceress and He-Man return to Castle Grayskull. Man-at-Arms tells viewers to not feel bad for failure, as long as they did the best job they could do."
+      },
+      {
+        "number": "109",
+        "title": "Orko's New Friend",
+        "directedBy": "Ernie Schmidt",
+        "writtenBy": "Shelley Karol, Warren Greenwood",
+        "airDate": "November 9, 1984",
+        "description": "When Orko is captured by an intergalactic criminal called the Slavemaster, Orko's friend Squonge who is visiting from Trolla goes for help. Unfortunately, Adam, Teela, and Man-At-Arms aren't sure whether or not to believe him due to his tendency to exaggerate or outright make things up. However, they go to check just in case he is telling the truth and find evidence of Orko where the Slavemaster's ship once had been. They know that the Slavemaster wants the strongest man on Eternia for his mines, so Man-At-Arms concocts a plan to draw attention to He-Man, so that he can be captured and taken to where Orko is, as they have no idea where the Slavemaster has taken him. Orko tells viewers not to make up stories or exaggerate, lest nobody trust even their true stories."
+      },
+      {
+        "number": "110",
+        "title": "The Problem with Power",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "Bob Forward, Leslie Wilson, Tom Tataranowicz",
+        "airDate": "November 10, 1984",
+        "description": "Skeletor, in his latest scheme to defeat He-Man, resorts to his most insidious plan yet: with the aid of the Goblin General Tataran, he manipulates He-Man into believing he has inadvertently killed someone. As He-Man struggles to cope with the consequences of his actions and contemplates turning his back on Grayskull, Teela is captured by Skeletor's forces, who are building a huge dimensional gateway to bring the Goblin army to Eternia. The episode concludes with He-man carrying Teela off into the sunset. Note: This episode shows He-Man transforming back into Prince Adam by holding up the Power Sword and proclaiming, \"Let the power return.\" Man-At-Arms tells viewers to generally be safe, and specifically, to wear a seat belt and not play with fire."
+      },
+      {
+        "number": "111",
+        "title": "Double Trouble",
+        "directedBy": "Ed Friedman",
+        "writtenBy": "J. Michael Straczynski",
+        "airDate": "November 13, 1984",
+        "description": "A terrible storm uncovers a secret passage in Snake Mountain, which leads to a magic mirror that can make a double that works opposite from its original out of anyone. Skeletor capture one of He-Man's allies to make an evil double out of, so that the double can steal the secrets of Grayskull for him. However, when the ally thinks of a clever way to make a good double of Skeletor, it is up to that double to fix the trouble that the real Skeletor has caused. Man-At-Arms tells viewers there is no such thing as absolute good or evil in any group. Orko suggests judging people on their actions, more than appearance or even words."
+      },
+      {
+        "number": "112",
+        "title": "The Eternia Flower",
+        "directedBy": "Ed Friedman",
+        "writtenBy": "Barbara Chain",
+        "airDate": "November 14, 1984",
+        "description": "Count Marzo gets a boy addicted to the scent and effects of a special flower that he created, telling the boy that if he wants more he will have to recruit more children to come to him and form an army. Teela tells viewers drugs can make them sick, dead or dangerous, and to check with someone they love before taking any."
+      },
+      {
+        "number": "113",
+        "title": "Happy Birthday Roboto",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "Larry DiTillio",
+        "airDate": "November 15, 1984",
+        "description": "The villain Modulok captures the heroic Roboto and reprograms him, then revives him to carry out his own evil deeds. He proceeds to attempt a Frankenstein-like experiment on Man-At-Arms, intending to transfer his brain power into his second head so that he can possess Man-At-Arms' scientific knowledge for himself. Teela tells viewers there's often no time to think about helping a friend, they just have to do it; it may come back to them in an unexpected reward."
+      },
+      {
+        "number": "114",
+        "title": "Battle of the Dragons",
+        "directedBy": "Steve Clark",
+        "writtenBy": "J. Michael Straczynski",
+        "airDate": "November 16, 1984",
+        "description": "On the anniversary of the treaty between humans and dragons, Granamyr's fire is stolen and the humans are accused of the theft. The dragons start to attack a village in retaliation. He-Man, Man-At-Arms, and Orko go find the missing fire to stop the dragons on declaring war on the humans. Man-At-Arms tells viewers to be good winners, showing mercy and respect to defeated opponents."
+      },
+      {
+        "number": "115",
+        "title": "Time Doesn't Fly",
+        "directedBy": "Marsh Lamore",
+        "writtenBy": "Jina Bacarr",
+        "airDate": "November 17, 1984",
+        "description": "In the middle of the afternoon, Teela, Adam, Orko, and Cringer notice that time seems to have stopped. The evil wizard Hexon has stopped it so that he may become the Emperor of Simbar. Princess Kathay, the emperor's daughter, arrives to ask for help to rescue her father and the Keeper of Time from their imprisonment at Hourglass Mountain. He-Man tells viewers of the unstoppable progression of time and its effect of change."
+      },
+      {
+        "number": "116",
+        "title": "Here, There, Skeletors Everywhere",
+        "directedBy": "Steve Clark",
+        "writtenBy": "Ken Cinnamon Karen Wengrod",
+        "airDate": "November 20, 1984",
+        "description": "Man-At-Arms creates a duplicating machine, but it doesn't work quite as well as he'd expected. It makes a copy of whatever is put under it, but the copy is smaller. Skeletor finds out about it and when Man-At-Arms leaves it for the night, intending to come back at a later time for adjustments, Skeletor steals it and makes an army of small Skeletors that he calls Skeletoids to help him take over the Royal Palace. Man-At-Arms tells viewers to resist gluttony and greed."
+      },
+      {
+        "number": "117",
+        "title": "Beauty and the Beast",
+        "directedBy": "Ernie Schmidt",
+        "writtenBy": "Don Heckman",
+        "airDate": "November 21, 1984",
+        "description": "Skeletor kidnaps Orko and Teela, intending to use them as bargaining chips to force King Randor to hand over the crown. However, he hides them in the palace of a kingdom that he's put under a curse. The king is even under a curse, to make him look ugly. Skeletor tells him that if he doesn't keep them securely hidden and do exactly as he says, he will put the people of his kingdom under the same ugliness curse that he has put the king and the terrain under. To avoid this, the king has reluctantly agreed. Teela must convince him that there are worse things than ugliness and that he must stand up to Skeletor. Orko tell viewers sometimes fairy tales come true. The king says acting beautiful matters more than looking ugly."
+      },
+      {
+        "number": "118",
+        "title": "Orko's Return",
+        "directedBy": "Ernie Schmidt",
+        "writtenBy": "J. Larry Carroll",
+        "airDate": "November 22, 1984",
+        "description": "Beast Man and Trap Jaw kidnap Orko to be their slave, using a magic stone amulet that they stole from Evil-Lyn, who had taken it from the rightful owners. They intend to use the amulet to gain control of the palace, using Orko as a hostage turned slave. The amulet refuses to let Orko use his magic for anything but exactly what they tell him to. Which means he can't just poof out of there. While He-Man tries to make his rescue, Orko busies himself showing Trap Jaw and Beast Man why this was not a very good idea. Orko tells viewers to leave potentially dangerous practical jokes to the pros, like him."
+      },
+      {
+        "number": "119",
+        "title": "Visitors From Earth",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "Mike Hazy",
+        "airDate": "November 23, 1984",
+        "description": "An Earth space ship gets sucked into a rainbow vortex that leads them to Eternia's galaxy. They crash land on Eternia, the pilot Colonel Mark Blaze ejects his co-pilot Major Andrea Steele from the ship. She lands at the palace, where she is immediately noticed by Prince Adam, Teela, Orko, and the King and Queen. It takes her a moment, but she recognizes Queen Marlena as Captain Marlena Glenn. Unfortunately, Mark is not so lucky. Their ship has landed near Snake Mountain and is taken prisoner by Skeletor, who insists on using the special missile that they have for blowing open Castle Grayskull. Upon extracting it, he damages the launch mechanisms. Mark tries to repair what he can, when He-Man and Andrea arrive. That missile is very important, before they got sucked into the vortex, the two had been on a mission to destroy a giant meteor that was on a collision course with Earth. They must hurry and retrieve the missile and complete their mission if Earth is to be saved. But, what of the damaged launching mechanisms? There is no time to fix them, and the missile is set to go off soon. Queen Marlena tells viewers helping others helps themselves, by making them feel good."
+      },
+      {
+        "number": "120",
+        "title": "Monster on the Mountain",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "Rowby Goren",
+        "airDate": "November 24, 1984",
+        "description": "There is said to be an evil monster called the Tingler who lives in the mountains above a settlers village from Eternia. Most think it is just a story or a superstition, but when the villagers spot the Tingler near the village well, King Randor can no longer ignore their insistence that the Tingler is not only real but that they are in danger of being his victims. Randor still isn't convinced, but he sends Teela and Prince Adam to go along and check things out. Teela and Orko tell viewers not to exaggerate in anecdotes, as it can lead to wildly inaccurate gossip and difficulty in discerning truth."
+      },
+      {
+        "number": "121",
+        "title": "The Magic Falls",
+        "directedBy": "Ernie Schmidt",
+        "writtenBy": "J. Michael Straczynski",
+        "airDate": "November 27, 1984",
+        "description": "Skeletor has another plan to cause trouble, this time involving Kobra Khan and Evil-Lyn. The only part Evil-Lyn is supposed to play is to put a glamour over Kobra Khan to make him look like an ordinary Eternian citizen, whom the palace is opened up to today in order for King Randor to hear their grievances, concerns, or requests on how things are going in the kingdom. To make sure that Orko doesn't interfere, Skeletor steals his magic! When Prince Adam finds out about this, they go to the palace to speak to Man-at-Arms. Unfortunately, there is nothing he can do. So, with a time limit set at getting back in time for the event to start, Orko and Prince Adam head out to a magic waterfall that Orko has heard of that is supposed to give him his magic back. However, getting there is the real problem. Man-At-Arms tells viewers that people with different abilities can combine them into an ability greater than the sum of its parts and this can make many jobs much easier."
+      },
+      {
+        "number": "122",
+        "title": "Search for a Son",
+        "directedBy": "Bill Reed",
+        "writtenBy": "Drew Lawrence",
+        "airDate": "November 28, 1984",
+        "description": "Mekaneck explains that he was given his bionic neck by Man-At-Arms after his neck was badly injured in severe storm winds. In the storm, he lost track of his son, Philip, and pledged his services to King Randor and the Royal guard in the hope of some day finding his son. It is revealed that his son was recovered from the storm winds by the evil Count Marzo, who had held him captive ever since and offers his return in exchange for the throne of Eternia. Buzz-Off appears. Teela tells viewers to be careful when running or climbing] and that it's more important to get somewhere at all than get there fast."
+      },
+      {
+        "number": "123",
+        "title": "Mistaken Identity",
+        "directedBy": "Bill Reed",
+        "writtenBy": "J. Michael Straczynski",
+        "airDate": "November 29, 1984",
+        "description": "Deranged human scientist called Galen Nycroft, imprisoned in the Royal dungeons for attempting to use his science to control all of Eternia with a mind ray. He summons a bat-like aid to his side with a component needed to teleport his final invention to the prison cell. Teleporting the large machine to the cell, he steps inside, and an explosion comes from within. He steps out in the mutated form of Modulok, and uses his greatly bolstered strength to break free from the prison cell. He contacts Skeletor and offers him his services, but Skeletor rejects him describing him as a \"wimp scientist\" and vows to only accept Modulok into his evil crew once he has proven himself. Modulok sets out to prove himself by capturing He-Man. He fails in his scheme, as he is deceived into capturing a teenage boy who is trying to impress his girlfriend by pretending to be He-Man's secret identity. Prince Adam tells viewers it's fun to lose and pretend but that there's a line between make-believe and outright lying they shouldn't cross."
+      },
+      {
+        "number": "124",
+        "title": "The Toy Maker",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "Karen Willson, Chris Weber",
+        "airDate": "November 30, 1984",
+        "description": "The Toy Maker is an evil villain who causes much trouble for the heroes with his evil toys that do his bidding. In order to prove himself as worthy of joining Skeletor's ranks, he poses as a good wizard to Orko, flatters him, and gives him the toys as a present, making him promise not to tell anyone where he got them. Orko is at first reluctant, but finally agrees. The toys are fun at first, but when the lights are out and Man-At-Arms is making his final rounds in the lab, they come to life and kidnap him, taking him to Snake Mountain. King Randor and Orko tell viewers not to take gifts from strangers, or keep any secrets they ask you to keep from parents."
+      },
+      {
+        "number": "125",
+        "title": "Bargain with Evil",
+        "directedBy": "Bill Reed",
+        "writtenBy": "Larry DiTillio",
+        "airDate": "December 1, 1984",
+        "description": "Angast, an evil king from the Dimension of Evil, has kidnapped the good wizard Landros. In order to win his freedom, his daughter Lady Arvela makes a bargain that she will kidnap the Starchild so that Angast can look upon her. However, she soon finds out that she's been duped when Angast breaks his bargain and transports her, the Starchild and the heroes (along with the Starchild's body guard) to his dimension, hoping to force the Starchild to use her powers to open a gate to Eternia for himself and his forces to come through and take over. He-Man tells viewers, basically, [two wrongs don't make a right."
+      },
+      {
+        "number": "126",
+        "title": "Capture the Comet Keeper",
+        "directedBy": "Lou Kachivas",
+        "writtenBy": "Robert Lamb",
+        "airDate": "December 4, 1984",
+        "description": "Skeletor kidnaps the Comet Keeper Zagraz, causing his many comets to run rampant and cause all sorts of devastation. Two Bad appears. Teela tells viewers violence isn't the best answer to any problem, as it only causes more problems."
+      },
+      {
+        "number": "127",
+        "title": "The Ancient Mirror of Avathar",
+        "directedBy": "Steve Clark",
+        "writtenBy": "Robert Lamb",
+        "airDate": "December 5, 1984",
+        "description": "Melaktha and Adam go on an expedition to find Avathar Island, home to the ruins of the ancient Avathar Empire. Moss Man, Two Bad, Trap Jaw and Evil-Lyn appear. He-Man tells viewers doing chores keeps a house running smoothly, even if they seem pointless or boring."
+      },
+      {
+        "number": "128",
+        "title": "The Games",
+        "directedBy": "Richard Trueblood",
+        "writtenBy": "J. Michael Straczynski",
+        "airDate": "December 6, 1984",
+        "description": "Fisto is chosen to represent the side of good in a series of games set by aliens. Spikor is infused with the villainous energy of all of Skeletor's minions so that he can be chosen to represent the side of evil and cheat. Mer-Man and Beast Man appear. Man-At-Arms tells viewers they can't win if they don't try, so to keep persisting even when it looks hopeless."
+      },
+      {
+        "number": "129",
+        "title": "To Save the Creatures",
+        "directedBy": "Gwen Wetzler",
+        "writtenBy": "Don Heckman",
+        "airDate": "December 7, 1984",
+        "description": "King Randor's birthday gives cause for a huge party at the Royal Palace. Adam, Teela and Orko take time out to visit Ricky's father at the Animal Sanctuary. Beast Man appears. Ricky tells viewers that having a genuine interest in something makes it seem less like work."
+      },
+      {
+        "number": "130",
+        "title": "The Cold Zone",
+        "directedBy": "Marsh Lamore",
+        "writtenBy": "J. Michael Straczynski",
+        "airDate": "December 8, 1984",
+        "description": "The evil Kobra Khan visits the Heroic Warriors, offering a truce in exchange for their help. He tells them that his people, the Reptons, are in need of help- someone has extinguished the furnace which heats their underground kingdom, plunging the whole kingdom into severe coldness. Man-At-Arms tells viewers to weigh out all the evidence and consider the sources before jumping to conclusions."
+      }
+    ]
+  }

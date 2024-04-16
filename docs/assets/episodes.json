@@ -10,13 +10,13 @@
     },
     {
       "number": 2,
-      "videoSrc": "image2.av1",
+      "videoSrc": ["image2.av1", "image2.webm"],
       "text": "Teela kicks He-man's arse",
       "tags": ["Unity and Friendship", "The Power of Transformation"]
     },
     {
       "number": 3,
-      "videoSrc": "image3.av1",
+      "videoSrc": ["image3.av1", "image3.webm"],
       "text": "Skeletor gets a friend",
       "tags": [
         "Courage and Responsibility",
